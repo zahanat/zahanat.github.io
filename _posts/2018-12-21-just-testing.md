@@ -10,3 +10,5 @@ Dears and nears, this is just a testing blog post to see how does the thing work
 Above is a picture of beautiful plants with our department in the background. Here is the [source code](https://github.com/zahanat/zahanat.github.io) of my blog at Github
 
 (zahanat.github.io/images/Aaa2.jpg)
+
+![Zamong Department](zahanat.github.io/images/Aaa2.jpg)
