@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about-me/
+permalink: /about/
 ---
 
-Some information about you!
+My name is Zahanat Hussain and I am a student of Economics at University of Peshawar.
 
-### More Information
+### My Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+My subject of interest is Econometrics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zaini1426@gmail.com](mailto:zaini1426@gmail.com)
