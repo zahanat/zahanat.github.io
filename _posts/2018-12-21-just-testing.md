@@ -11,4 +11,4 @@ Above is a picture of beautiful plants with our department in the background. He
 
 (zahanat.github.io/images/Aaa2.jpg)
 
-![Zamong Department](https://zahanat.github.io/images/Aaa2.jpg)
+![Zamong Department]({{ base.url }}/images/Aaa2.jpg)
