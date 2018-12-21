@@ -22,6 +22,6 @@ Above is a picture of beautiful plants with our department in the background. He
 
 | title1 | title2 | title3 | title4 |
 |---|---|---|---|
-| data1 | data2 | data3 | data4 |
+| zaini | data2 | data3 | data4 |
 | data5 | data6 | data7 | data8 |
 | data9 | data10 | data11 | data12 |
