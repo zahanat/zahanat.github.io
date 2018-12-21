@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Zahanat Hussain and I am a student of Economics at University of Peshawar.
 
-### My Interests
+### My Subject of Interest
 
 My subject of interest is Econometrics.
 
